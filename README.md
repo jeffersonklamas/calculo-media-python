@@ -14,6 +14,7 @@ Para rodar o aplicativo sem baixar o pacote indicado, favor comentar a linha 11 
 
 Para utilizar é necessário baixar o pacote:
 ~~~python
-pip install termcolor ~~~
+pip install termcolor
+~~~
 
 Utilizei o Anaconda para baixar o pacote e utilizá-lo.
