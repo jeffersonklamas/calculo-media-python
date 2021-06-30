@@ -45,12 +45,12 @@ pip install termcolor
 
 Includes instructions to clear the screen when starting the program:
 ~~~python
-import os.system('clear') or None
+import os 
+os.system('clear') or None
 ~~~
 
-Have good ideas and.
+Have good ideas.
 
-------------
 ------------
 
 #### Acesso ao pacote termcolor:
