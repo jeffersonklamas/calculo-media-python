@@ -1,4 +1,4 @@
-# Cálculo da média de nota dos alunos
+## Cálculo da média de nota dos alunos
 
 Neste básico programa de cálculo de média onde o aluno recebe o conceito referente a média dos valores inserida.
 
@@ -8,9 +8,10 @@ Neste básico programa de cálculo de média onde o aluno recebe o conceito refe
 4. Conceito D = nota >= 6 and 6,99999
 5. Conceito R = nota < 5
 
-O que usei e testei foi o pacote **[termcolor](#Acesso ao pacote termcolor:)** para colorir as saídas e utilizei alguns atributos disponíves no pacote.
+O que usei e testei foi o pacote **termcolor** para colorir as saídas e utilizei alguns atributos disponíves no pacote.
 
 Para utilizar é necessário baixar o pacote:
+
 ~~~python
 pip install termcolor
 ~~~
@@ -25,6 +26,7 @@ os.system('clear') or None
 Tenha boas idéias.
 
 ------------
+------------
 
 In this basic averaging program where the student receives the concept regarding the average of the values ​​entered.
 
@@ -34,7 +36,7 @@ In this basic averaging program where the student receives the concept regarding
 4. Concept D = grade >= 6 and 6.99999
 5. Concept R = grade < 5
 
-What I used and tested was the **[termcolor](#Acesso ao pacote termcolor:)** package to color the outputs and I used some attributes available in the package.
+What I used and tested was the **termcolor** package to color the outputs and I used some attributes available in the package.
 
 To use it is necessary to download the package:
 ~~~python
@@ -49,7 +51,8 @@ import os.system('clear') or None
 Have good ideas and.
 
 ------------
+------------
 
-# Acesso ao pacote termcolor:
+#### Acesso ao pacote termcolor:
 
 <https://pypi.org/project/termcolor/>
